@@ -1,0 +1,13 @@
+INPUT(
+./debug\datacontent.o
+./debug\daycontent.o
+./debug\dialog.o
+./debug\editdialog.o
+./debug\gyomu.o
+./debug\main.o
+./debug\popdialog.o
+./debug\projcontent.o
+./debug\moc_dialog.o
+./debug\moc_editdialog.o
+./debug\moc_popdialog.o
+);
